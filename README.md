@@ -1,0 +1,2 @@
+# ControlCnter
+ControlCenter mining software
