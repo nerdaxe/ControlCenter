@@ -1,0 +1,3 @@
+[submodule "external/libnerdaxe"]
+	path = external/libnerdaxe
+	url = https://github.com/nerdaxe/libnerdaxe
